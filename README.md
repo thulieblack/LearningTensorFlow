@@ -1,2 +1,2 @@
 # LearningTensorFlow
-Here in this repo will contain all the notebooks of my journey in learning Tensorflow.
+This Repo contains all the notebooks i have worked on in my journey to Learning TensorFlow.
